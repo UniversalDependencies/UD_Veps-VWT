@@ -14,7 +14,6 @@ This work has been developed as part of the master thesis written by Käbi Laan 
 
 ## References
 
-* (citation)
 * Grünthal, Riho 2015. Vepsän kielioppi. Apunevoja suomalais-ugrilaisten kielten
 opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
 * Zaitseva = Зайцева, Н.Г., Е.Е. Харитонова, О.Ю. Жукова 2012.
