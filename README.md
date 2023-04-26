@@ -1,21 +1,25 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
+UD Veps-VWT is a manually annotated corpus of Veps made in Universal dependencies annotation scheme. The data is collected from [VepKar corpora](http://dictorpus.krc.karelia.ru/en/corpus/text) and consists of mostly modern news texts written in Central Veps dialect.
 
 
 # Introduction
 
-...
+UD Veps-VWT is a manually annotated corpus of Veps made in Universal dependencies annotation scheme. The data is collected from [VepKar corpora](http://dictorpus.krc.karelia.ru/en/corpus/text) and consists of mostly modern news texts written in Central Veps dialect. The morphologigal annotations and grammar decisions are based on the language studies made by Riho Grünthal and different Veps dictionaries (by Nina Zaitseva). Many syntactic decisions are based on pre-existing Finnish, Estonian, Karelian and Russian treebanks. 
 
 
 # Acknowledgments
 
-...
+This work has been developed as part of the master thesis written by Käbi Laan in the University of Tartu with the help of supervisors Kadri Muischnek and Eva Saar.
 
 ## References
 
 * (citation)
-
+* Grünthal, Riho 2015. Vepsän kielioppi. Apunevoja suomalais-ugrilaisten kielten
+opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
+* Zaitseva = Зайцева, Н.Г., Е.Е. Харитонова, О.Ю. Жукова 2012.
+Орфографический словарь вепсского языка (Vepsän kelen orfografine vajehnik).
+Петрозаводск: Карельский научный центр.
 
 # Changelog
 
