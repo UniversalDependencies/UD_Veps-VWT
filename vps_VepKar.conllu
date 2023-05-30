@@ -1297,7 +1297,7 @@
 9	külän	külä	NOUN	_	Case=Gen|Number=Sing	10	nmod	_	_
 10	eläjiden	eläi	NOUN	_	Case=Gen|Number=Plur	11	nmod	_	_
 11	elod	elo	NOUN	_	Case=Par|Number=Sing	8	obj	_	_
-12	.	.	PUNCT	_	_	2	_	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = vepkar_83
 # text = Nece rad ei ole kebn , no se om lujas tärged meiden täht .
@@ -1397,13 +1397,13 @@
 # text = Tägä ei ole sotovijad sidod , tänna ei ajelkoiš avtobusad .
 1	Tägä	tägä	ADV	_	_	0	root	_	_
 2	ei	ei	AUX	_	Number=Sing|Person=3|Polarity=Neg	1	aux	_	_
-3	ole	olda	AUX	_	Connegative=Yes|Mood=Ind|Person=Sing|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	ole	olda	AUX	_	Connegative=Yes|Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
 4	sotovijad	sotovij	ADJ	_	Case=Par|Degree=Pos|Number=Sing	5	amod	_	_
 5	sidod	sido	NOUN	_	Case=Par|Number=Sing	1	nsubj:cop	_	_
 6	,	,	PUNCT	_	_	9	punct	_	_
 7	tänna	tännä	ADV	_	_	9	advmod	_	_
 8	ei	ei	AUX	_	Number=Plur|Person=3|Polarity=Neg	9	aux	_	_
-9	ajelkoiš	ajeltas	VERB	_	Connegative=Yes|Mood=Ind|Person=Plur|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+9	ajelkoiš	ajeltas	VERB	_	Connegative=Yes|Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
 10	avtobusad	avtobus	NOUN	_	Case=Nom|Number=Plur	9	nsubj	_	_
 11	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -1420,7 +1420,7 @@
 # text = Tägä eläba vepsläižed .
 1	Tägä	tägä	ADV	_	_	2	advmod	_	_
 2	eläba	eläda	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	vepsläižed	vepsläine	NOUN	_	Case=Nom|Number=Olur	2	nsubj	_	_
+3	vepsläižed	vepsläine	NOUN	_	Case=Nom|Number=Plur	2	nsubj	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = vepkar_93
@@ -1519,7 +1519,7 @@
 3	elo	elo	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
 4	tägä	tägä	ADV	_	_	6	advmod	_	_
 5	ei	ei	AUX	_	Number=Sing|Person=3|Polarity=Neg	6	aux	_	_
-6	azotade	azotadas	VERB	_	Connegative=Yes|Mood=Ind|Person=Sing|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	azotade	azotadas	VERB	_	Connegative=Yes|Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = vepkar_98
