@@ -211,7 +211,7 @@
 5	pert'	pert'	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 6	,	,	PUNCT	_	_	12	punct	_	_
 7	necen	nece	PRON	_	Case=Gen|Number=Sing|PronType=Dem	8	nmod	_	_
-8	sijan	sija	NOUN	_	Case=Gen|Number=Sing	9	obl	_	_
+8	sijan	sija	NOUN	_	Case=Gen|Number=Sing	12	obl	_	_
 9	polhe	pol'	ADP	_	AdpType=Post	8	case	_	_
 10	minun	minä	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	11	nmod	_	_
 11	südäimes	südäin	NOUN	_	Case=Ine|Number=Sing	12	obl	_	_
