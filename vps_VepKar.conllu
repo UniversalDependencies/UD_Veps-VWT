@@ -609,8 +609,8 @@
 7	tehtud	tehta	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 8	"	"	PUNCT	_	_	9	punct	_	_
 9	Kalarand	Kalarand	PROPN	_	Case=Nom|Number=Sing	12	nmod	_	_
-10	"	"	PUNCT _ _ 9 punct _ _
-11	- - PUNCT _ _ 12  punct _ _
+10	"	"	PUNCT	_	_	9	punct	_	_
+11	-	-	PUNCT	_	_	12	punct	_	_
 12	praznik	praznik	NOUN	_	Case=Nom|Number=Sing	7	obj	_	_
 13	.	.	PUNCT	_	_	7	punct	_	_
 
@@ -1609,3 +1609,4 @@
 14	tägä	tägä	ADV	_	_	13	advmod	_	_
 15	igän	igän	ADV	_	_	13	advmod	_	_
 16	.	.	PUNCT	_	_	2	punct	_	_
+
