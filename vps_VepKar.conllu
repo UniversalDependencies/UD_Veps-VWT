@@ -65,7 +65,7 @@
 9	läz	läz	ADV	_	_	10	advmod	_	_
 10	kaht	kaks'	NUM	_	Case=Par|NumType=Card|NumForm=Word	11	nummod	_	_
 11	vot	voz'	NOUN	_	Case=Par|Number=Sing	16	obl	_	_
-12	hän	hän	PRON	_	Case=Noun|Number=Sing|Person=3|PronType=Prs	16	nsubj:cop	_	_
+12	hän	hän	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	16	nsubj:cop	_	_
 13	oli	olda	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	cop	_	_
 14	Vepsän	vepsän	ADJ	_	Case=Gen|Number=Sing	15	amod	_	_
 15	kul'tursebran	kul'tursebr	NOUN	_	Case=Gen|Number=Sing	16	nmod	_	_
@@ -212,7 +212,7 @@
 6	,	,	PUNCT	_	_	12	punct	_	_
 7	necen	nece	PRON	_	Case=Gen|Number=Sing|PronType=Dem	8	nmod	_	_
 8	sijan	sija	NOUN	_	Case=Gen|Number=Sing	9	obl	_	_
-9	polhe	pol'	NOUN	_	Case=Ill|Number=Sing	12	_	_	_
+9	polhe	pol'	ADP	_	AdpType=Post	9	case	_	_
 10	minun	minä	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	11	nmod	_	_
 11	südäimes	südäin	NOUN	_	Case=Ine|Number=Sing	12	obl	_	_
 12	eläba	eläda	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
@@ -249,7 +249,7 @@
 
 # sent_id = vepkar_15
 # text = Tatan polespäi kaik oma vepsläižed .
-1	Tatan	tat	NOUN	_	Case=Gen|Number=Sing	5	nsubj	_	_
+1	Tatan	tat	NOUN	_	Case=Gen|Number=Sing	5	nmod	_	_
 2	polespäi	pol'	NOUN	_	Case=Ela|Number=Sing	5	obl	_	_
 3	kaik	kaik	PRON	_	Case=Nom|Number=Sing|PronType=Tot	5	nsubj:cop	_	_
 4	oma	olda	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
@@ -601,16 +601,16 @@
 # sent_id = vepkar_37
 # text = Jo toižen kerdan meiden posadas oli tehtud " Kalarand " - praznik .
 1	Jo	jo	ADV	_	_	7	advmod	_	_
-2	toižen	toine	ADJ	_	Case=Gen|Number=Sing|PronType=Dem	3	amod	_	_
+2	toižen	toine	ADJ	_	Case=Gen|Number=Sing	3	amod	_	_
 3	kerdan	kerd	NOUN	_	Case=Gen|Number=Sing	7	obl	_	_
 4	meiden	mö	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	5	nmod	_	_
 5	posadas	posada	NOUN	_	Case=Ine|Number=Sing	7	obl	_	_
 6	oli	olda	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	aux	_	_
-7	tehtud	tehta	VERB	_	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+7	tehtud	tehta	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 8	"	"	PUNCT	_	_	9	punct	_	_
 9	Kalarand	Kalarand	PROPN	_	Case=Nom|Number=Sing	12	nmod	_	_
-10	"	"	PUNCT 	_	_	9	punct	_	_
-11	-	-	PUNCT	_	_	12	punct	_	_
+10	"	"	PUNCT _	_	9	punct	_	_
+11	-	-	PUNCT	_	_	12  punct	_	_
 12	praznik	praznik	NOUN	_	Case=Nom|Number=Sing	7	obj	_	_
 13	.	.	PUNCT	_	_	7	punct	_	_
 
@@ -962,7 +962,7 @@
 7	minä	minä	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
 8	sain	sada	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 9	diploman	diplom	NOUN	_	Case=Gen|Number=Sing	8	obj	_	_
-10	i	i	CCONJ	_	_	11	_	_	_
+10	i	i	CCONJ	_	_	11	cc	_	_
 11	radoin	rata	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	_
 12	völ	völ	ADV	_	_	11	advmod	_	_
 13	erazvuiččiš	erazvuitte	ADJ	_	Case=Ine|Degree=Pos|Number=Plur	14	amod	_	_
