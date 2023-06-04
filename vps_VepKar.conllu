@@ -29,7 +29,7 @@
 1	Natalja	Natalja	PROPN	_	Case=Nom|Number=Sing	5	nsubj:cop	_	_
 2	Silakova	Silakova	PROPN	_	Case=Nom|Number=Sing	1	flat	_	_
 3	om	olda	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
-4	üks'	üks'	NUM	_	Case=Nom|NumType=Card|NumForm=Word	5	nummod	_	_
+4	üks'	üks'	NUM	_	Case=Nom|NumForm=Word|NumType=Card	5	nummod	_	_
 5	heišpäi	hö	PRON	_	Case=Ela|Number=Plur|Person=3|PronType=Prs	0	root	_	_
 6	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -63,7 +63,7 @@
 7	pämez'	pämez'	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 8	da	da	CCONJ	_	_	16	cc	_	_
 9	läz	läz	ADV	_	_	10	advmod	_	_
-10	kaht	kaks'	NUM	_	Case=Par|NumType=Card|NumForm=Word	11	nummod	_	_
+10	kaht	kaks'	NUM	_	Case=Par|NumForm=Word|NumType=Card	11	nummod	_	_
 11	vot	voz'	NOUN	_	Case=Par|Number=Sing	16	obl	_	_
 12	hän	hän	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	16	nsubj:cop	_	_
 13	oli	olda	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	cop	_	_
@@ -120,7 +120,7 @@
 13	,	,	PUNCT	_	_	17	punct	_	_
 14	mitte	mitte	PRON	_	Case=Nom|Number=Sing|PronType=Int	17	nsubj:cop	_	_
 15	om	olda	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	cop	_	_
-16	23.	23.	NUM	_	Case=Ade|NumType=Ord|NumForm=Digit	17	nummod	_	_
+16	23.	23.	NUM	_	Case=Ade|NumForm=Digit|NumType=Ord	17	nummod	_	_
 17	sügüz'kud	sügüz'ku	NOUN	_	Case=Par|Number=Sing	11	acl:relcl	_	_
 18	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -317,7 +317,7 @@
 7	,	,	PUNCT	_	_	9	punct	_	_
 8	kus	kus	ADV	_	_	9	mark	_	_
 9	openzihe	opetas	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	6	acl:relcl	_	_
-10	kahesa	kahesa	NUM	_	Case=Nom|NumType=Card|NumForm=Word	11	nummod	_	_
+10	kahesa	kahesa	NUM	_	Case=Nom|NumForm=Word|NumType=Card	11	nummod	_	_
 11	klassad	klass	NOUN	_	Case=Par|Number=Plur	9	nsubj	_	_
 12	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -774,7 +774,7 @@
 8	konkursoihe	konkurs	NOUN	_	Case=Ill|Number=Plur	7	obl	_	_
 9	da	da	CCONJ	_	_	10	cc	_	_
 10	sain	sada	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
-11	ezmäižid	ezmäine	ADJ	_	Case=Par|NumType=Ord|NumForm=Word	12	amod	_	_
+11	ezmäižid	ezmäine	ADJ	_	Case=Par|NumForm=Word|NumType=Ord	12	amod	_	_
 12	sijoid	sija	NOUN	_	Case=Par|Number=Plur	10	obj	_	_
 13	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -799,7 +799,7 @@
 8	minä	minä	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
 9	pätin	pätta	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	16	advcl	_	_
 10	tehta	tehta	VERB	_	VerbForm=Inf	9	xcomp	_	_
-11	midä-se	mi-se	PRON	_	Case=Par|Number=Sing|Clitic=Se	10	obj	_	_
+11	midä-se	mi-se	PRON	_	Case=Par|Clitic=Se|Number=Sing	10	obj	_	_
 12	,	,	PUNCT	_	_	16	punct	_	_
 13	ka	ka	ADV	_	_	16	advmod	_	_
 14	minei	minä	PRON	_	Case=All|Number=Sing|Person=1|PronType=Prs	16	obl	_	_
@@ -897,7 +897,7 @@
 11	konz	konz	ADV	_	_	12	advmod	_	_
 12	minei	minä	PRON	_	Case=All|Number=Sing|Person=1|PronType=Prs	19	advcl	_	_
 13	oli	olda	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	cop	_	_
-14	40	40	NUM	_	Case=Nom|NumType=Card|NumForm=Digit	15	nummod	_	_
+14	40	40	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	15	nummod	_	_
 15	vot	voz'	NOUN	_	Case=Par|Number=Sing	12	nsubj:cop	_	_
 16	,	,	PUNCT	_	_	19	punct	_	_
 17	minä	minä	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	_	_
@@ -980,7 +980,7 @@
 7	lugin	lugeda	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
 8	lekcijoid	lekcii	NOUN	_	Case=Par|Number=Plur	7	obj	_	_
 9	läz	läz	ADV	_	_	10	advmod	_	_
-10	15	15	NUM	_	Case=Nom|NumType=Card|NumForm=Digit	11	nummod	_	_
+10	15	15	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	11	nummod	_	_
 11	vot	voz'	NOUN	_	Case=Par|Number=Sing	7	obl	_	_
 12	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -1093,7 +1093,7 @@
 7	voin-ik	voida	AUX	_	Clitic=Ik|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	_
 8	minä	minä	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
 9	tehta	tehta	VERB	_	VerbForm=Inf	5	ccomp	_	_
-10	midä-se	mi-se	PRON	_	Case=Par|Number=Sing|Clitic=Se	11	nmod	_	_
+10	midä-se	mi-se	PRON	_	Case=Par|Clitic=Se|Number=Sing	11	nmod	_	_
 11	ut	uz'	ADJ	_	Case=Par|Degree=Pos|Number=Sing	9	obj	_	_
 12	da	da	CCONJ	_	_	13	cc	_	_
 13	hüväd	hüvä	ADJ	_	Case=Par|Degree=Pos|Number=Sing	11	conj	_	_
@@ -1156,7 +1156,7 @@
 16	pätta	pätta	VERB	_	VerbForm=Inf	11	ccomp	_	_
 17	kaik	kaik	PRON	_	Case=Nom|Number=Sing|PronType=Tot	18	nmod	_	_
 18	problemad	problem	NOUN	_	Case=Nom|Number=Plur	16	obj	_	_
-19	ühtes	üks	NUM	_	Case=Ine|NumType=Card|NumForm=Word	20	nummod	_	_
+19	ühtes	üks	NUM	_	Case=Ine|NumForm=Word|NumType=Card	20	nummod	_	_
 20	päiväs	päiv	NOUN	_	Case=Ine|Number=Sing	16	obl	_	_
 21	,	,	PUNCT	_	_	24	punct	_	_
 22	sen	se	PRON	_	Case=Gen|Number=Sing|PronType=Dem	24	obl	_	_
@@ -1169,7 +1169,7 @@
 # text = A vodel 2017 mindai valitihe Vepsän kul'tursebran pämeheks .
 1	A	a	CCONJ	_	_	5	cc	_	_
 2	vodel	voz'	NOUN	_	Case=Ade|Number=Sing	5	obl	_	_
-3	2017	2017	NUM	_	Case=Nom|NumType=Card|NumForm=Digit	2	nummod	_	_
+3	2017	2017	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	2	nummod	_	_
 4	mindai	minä	PRON	_	Case=Par|Number=Sing|Person=1|PronType=Prs	5	obj	_	_
 5	valitihe	valita	VERB	_	Case=Ill|VerbForm=Sup|Voice=Pass	0	root	_	_
 6	Vepsän	vepsän	PROPN	_	Case=Gen|Number=Sing	7	nmod	_	_
@@ -1508,14 +1508,14 @@
 2	Päžarvehe	Päžar	PROPN	_	Case=Ill|Number=Sing	3	obl	_	_
 3	jäb	jäda	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	läz	läz	ADV	_	_	5	advmod	_	_
-5	40	40	NUM	_	Case=Nom|NumType=Card|NumForm=Digit	6	nummod	_	_
+5	40	40	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	6	nummod	_	_
 6	mest	mez	NOUN	_	Case=Par|Number=Sing	3	nsubj	_	_
 7	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = vepkar_97
 # text = No kaikse elo tägä ei azotade .
 1	No	no	CCONJ	_	_	6	cc	_	_
-2	kaikse	kaik-se	PRON	_	Case=Nom|Number=Sing|PronType=Tot|Clitic=Se	3	nmod	_	_
+2	kaikse	kaik-se	PRON	_	Case=Nom|Clitic=Se|Number=Sing|PronType=Tot	3	nmod	_	_
 3	elo	elo	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
 4	tägä	tägä	ADV	_	_	6	advmod	_	_
 5	ei	ei	AUX	_	Number=Sing|Person=3|Polarity=Neg	6	aux	_	_
@@ -1527,7 +1527,7 @@
 1	Lauk	lauk	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	ajelese	ajeltas	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	tänna	tänna	ADV	_	_	2	advmod	_	_
-4	kaks'	kaks'	NUM	_	Case=Nom|NumType=Card|NumForm=Word	5	nummod	_	_
+4	kaks'	kaks'	NUM	_	Case=Nom|NumForm=Word|NumType=Card	5	nummod	_	_
 5	kerdad	kerd	NOUN	_	Case=Par|Number=Sing	6	nmod	_	_
 6	nedališ	nedal	NOUN	_	Case=Ine|Number=Plur	2	obl	_	_
 7	,	,	PUNCT	_	_	9	punct	_	_
@@ -1565,7 +1565,7 @@
 # text = Muzejas om koume honust enččiden kaluidenke .
 1	Muzejas	muzei	NOUN	_	Case=Ine|Number=Sing	0	root	_	_
 2	om	olda	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
-3	koume	koume	NUM	_	Case=Nom|NumType=Card|NumForm=Word	4	nummod	_	_
+3	koume	koume	NUM	_	Case=Nom|NumForm=Word|NumType=Card	4	nummod	_	_
 4	honust	honuz	NOUN	_	Case=Par|Number=Sing	1	nsubj:cop	_	_
 5	enččiden	enzne	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
 6	kaluidenke	kalu	NOUN	_	Case=Com|Number=Plur	4	nmod	_	_
