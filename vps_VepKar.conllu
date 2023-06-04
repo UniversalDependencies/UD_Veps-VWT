@@ -223,7 +223,7 @@
 
 # sent_id = vepkar_13
 # text = Pagištihe-ik Teiden kanzas vepsän kelel ?
-1	Pagištihe-ik	pagišta	VERB	_	Clitic=ik|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+1	Pagištihe-ik	pagišta	VERB	_	Clitic=Ik|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 2	Teiden	tö	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	3	nmod	_	_
 3	kanzas	kanz	NOUN	_	Case=Ine|Number=Sing	1	obl	_	_
 4	vepsän	vepsän	ADJ	_	Case=Gen|Number=Sing	5	amod	_	_
@@ -279,7 +279,7 @@
 
 # sent_id = vepkar_17
 # text = Muštat-ik Tö ičetoi školan vozid ?
-1	Muštat-ik	muštatada	VERB	_	Clitic=ik|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+1	Muštat-ik	muštatada	VERB	_	Clitic=Ik|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	Tö	tö	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	1	nsubj	_	_
 3	ičetoi	ičeze	PRON	_	Case=Nom|Number=Plur|PronType=Prs|Reflex=Yes	4	nmod	_	_
 4	školan	škol	NOUN	_	Case=Gen|Number=Sing	5	nmod	_	_
@@ -459,7 +459,7 @@
 4	radmaha	rata	VERB	_	Case=Ill|VerbForm=Sup|Voice=Act	3	xcomp	_	_
 5	kivikarjeroihe	kivikarjer	NOUN	_	Case=Ill|Number=Plur	3	obl	_	_
 6	vai	vai	CCONJ	_	_	8	cc	_	_
-7	kuna-se	kuna-se	ADV	_	Clitic=se	8	advmod	_	_
+7	kuna-se	kuna-se	ADV	_	Clitic=Se	8	advmod	_	_
 8	völ	völ	ADV	_	_	5	advmod	_	_
 9	,	,	PUNCT	_	_	13	punct	_	_
 10	i	i	CCONJ	_	_	13	cc	_	_
@@ -643,7 +643,7 @@
 6	kelel	kel'	NOUN	_	Case=Ade|Number=Sing	2	obl	_	_
 7	,	,	PUNCT	_	_	10	punct	_	_
 8	muga	muga	ADV	_	_	10	advmod	_	_
-9	venän-ki	venä	NOUN	_	Case=Gen|Clitic=ki|Number=Sing	10	nmod	_	_
+9	venän-ki	venä	NOUN	_	Case=Gen|Clitic=Ki|Number=Sing	10	nmod	_	_
 10	kelel	kel'	NOUN	_	Case=Ade|Number=Sing	6	conj	_	_
 11	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -799,7 +799,7 @@
 8	minä	minä	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
 9	pätin	pätta	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	16	advcl	_	_
 10	tehta	tehta	VERB	_	VerbForm=Inf	9	xcomp	_	_
-11	midä-se	mi-se	PRON	_	Case=Par|Number=Sing|Clitic=se	10	obj	_	_
+11	midä-se	mi-se	PRON	_	Case=Par|Number=Sing|Clitic=Se	10	obj	_	_
 12	,	,	PUNCT	_	_	16	punct	_	_
 13	ka	ka	ADV	_	_	16	advmod	_	_
 14	minei	minä	PRON	_	Case=All|Number=Sing|Person=1|PronType=Prs	16	obl	_	_
@@ -811,7 +811,7 @@
 
 # sent_id = vepkar_52
 # text = Oli-ik mugoine aig , konz Teile pidi vajehtada ičetoi elod ?
-1	Oli-ik	olda	VERB	_	Clitic=ik|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+1	Oli-ik	olda	VERB	_	Clitic=Ik|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	mugoine	mugoine	PRON	_	Case=Nom|Number=Sing|PronType=Int	3	nmod	_	_
 3	aig	aig	NOUN	_	Case=Nom|Number=Sing	1	nsubj	_	_
 4	,	,	PUNCT	_	_	8	punct	_	_
@@ -825,7 +825,7 @@
 
 # sent_id = vepkar_53
 # text = Äjak-se aigad mindai ei olend Venämal .
-1	Äjak-se	äjak-se	ADV	_	Clitic=se	2	advmod	_	_
+1	Äjak-se	äjak-se	ADV	_	Clitic=Se	2	advmod	_	_
 2	aigad	aig	NOUN	_	Case=Nom|Number=Plur	6	obl	_	_
 3	mindai	minä	PRON	_	Case=Par|Number=Sing|Person=1|PronType=Prs	6	nsubj:cop	_	_
 4	ei	ei	AUX	_	Number=Sing|Person=3|Polarity=Neg	6	aux	_	_
@@ -1076,7 +1076,7 @@
 2	meletin	meletada	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	pit'kha	pit'kha	ADV	_	_	2	advmod	_	_
 4	,	,	PUNCT	_	_	7	punct	_	_
-5	pidab-ik	pidada	AUX	_	Clitic=ik|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	_
+5	pidab-ik	pidada	AUX	_	Clitic=Ik|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	_
 6	minei	minä	PRON	_	Case=All|Number=Sing|Person=1|PronType=Prs	7	obl	_	_
 7	tehta	tehta	VERB	_	VerbForm=Inf	2	ccomp	_	_
 8	necidä	nece	PRON	_	Case=Par|Number=Sing|PronType=Dem	7	obj	_	_
@@ -1090,10 +1090,10 @@
 4	tahtoin	tahtoida	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 5	el'geta	el'geta	VERB	_	VerbForm=Inf	4	xcomp	_	_
 6	,	,	PUNCT	_	_	9	punct	_	_
-7	voin-ik	voida	AUX	_	Clitic=ik|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	_
+7	voin-ik	voida	AUX	_	Clitic=Ik|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	_
 8	minä	minä	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
 9	tehta	tehta	VERB	_	VerbForm=Inf	5	ccomp	_	_
-10	midä-se	mi-se	PRON	_	Case=Par|Number=Sing|Clitic=se	11	nmod	_	_
+10	midä-se	mi-se	PRON	_	Case=Par|Number=Sing|Clitic=Se	11	nmod	_	_
 11	ut	uz'	ADJ	_	Case=Par|Degree=Pos|Number=Sing	9	obj	_	_
 12	da	da	CCONJ	_	_	13	cc	_	_
 13	hüväd	hüvä	ADJ	_	Case=Par|Degree=Pos|Number=Sing	11	conj	_	_
@@ -1106,7 +1106,7 @@
 # text = Minä tahtoin kut-se vajehtada elod küläs , kaita vepsläšt kul'turad da kel't .
 1	Minä	minä	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	tahtoin	tahtoida	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-3	kut-se	kut-se	ADV	_	Clitic=se	2	advmod	_	_
+3	kut-se	kut-se	ADV	_	Clitic=Se	2	advmod	_	_
 4	vajehtada	vajehtada	VERB	_	VerbForm=Inf	2	xcomp	_	_
 5	elod	elo	NOUN	_	Case=Par|Number=Sing	4	obj	_	_
 6	küläs	külä	NOUN	_	Case=Ine|Number=Sing	5	obl	_	_
@@ -1515,7 +1515,7 @@
 # sent_id = vepkar_97
 # text = No kaikse elo tägä ei azotade .
 1	No	no	CCONJ	_	_	6	cc	_	_
-2	kaikse	kaik-se	PRON	_	Case=Nom|Number=Sing|PronType=Tot|Clitic=se	3	nmod	_	_
+2	kaikse	kaik-se	PRON	_	Case=Nom|Number=Sing|PronType=Tot|Clitic=Se	3	nmod	_	_
 3	elo	elo	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
 4	tägä	tägä	ADV	_	_	6	advmod	_	_
 5	ei	ei	AUX	_	Number=Sing|Person=3|Polarity=Neg	6	aux	_	_
