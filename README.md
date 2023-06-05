@@ -5,7 +5,7 @@ UD Veps-VWT is a manually annotated corpus of Veps made in Universal dependencie
 
 # Introduction
 
-UD Veps-VWT is a manually annotated corpus of Veps made in Universal dependencies annotation scheme. The data is collected from [VepKar corpora](http://dictorpus.krc.karelia.ru/en/corpus/text) and consists of mostly modern news texts written in Central Veps dialect. The morphologigal annotations and grammar decisions are based on the language studies made by Riho Grünthal and different Veps dictionaries (by Nina Zaitseva). Many syntactic decisions are based on pre-existing Finnish, Estonian, Karelian and Russian treebanks. 
+UD Veps-VWT is a manually annotated corpus of Veps made in Universal dependencies annotation scheme. The data is collected from [VepKar corpora](http://dictorpus.krc.karelia.ru/en/corpus/text) and consists of mostly modern news texts written in Central Veps dialect. The morphologigal annotations and grammar decisions are based on the language studies made by Riho Grünthal and different Veps dictionaries (by Nina Zaitseva). Many syntactic decisions are based on pre-existing Finnish, Estonian, Karelian and Russian treebanks.
 
 
 # Acknowledgments
@@ -22,13 +22,13 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
 
 # Changelog
 
-* 2023-05-15 v2.12
+* 2023-11-15 v2.13
   * Initial release in Universal Dependencies.
 
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.12
+Data available since: UD v2.13
 License: CC BY-SA 4.0
 Includes text: yes
 Genre: grammar-examples
