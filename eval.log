@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit e9726a6a7d6913193d90edb45a4cb549235c5b16
+commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 4 17:10:55 2023 +0100
+Date:   Sun May 5 09:21:16 2024 +0200
 Evaluating the following revision of UD_Veps-VWT:
-commit 0cb622e578c80bf34f5a9c61dd7cc82b73c01fec
+commit 9d7d15d647521ff6973e367cb47716099a1ac10d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 5 00:06:33 2023 +0100
+Date:   Mon Nov 6 13:13:19 2023 +0100
 Size: counted 1303 of 1303 words (nodes).
 Size: min(0, log((N/1000)**2)) = 0.529338596285416.
 Size: maximum value 13.815511 is for 1000000 words or more.
