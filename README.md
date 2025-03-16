@@ -38,6 +38,7 @@ XPOS: not available
 Features: manual native
 Relations: manual native
 Contributors: Laan, Käbi
+Contributing: here
 Contact: kaebi.laan@gmail.com
 ===============================================================================
 </pre>
