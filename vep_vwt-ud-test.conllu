@@ -9,7 +9,7 @@
 7	naižed	naine	NOUN	_	Case=Nom|Number=Plur	3	nsubj	_	_
 8	,	,	PUNCT	_	_	16	punct	_	_
 9	kudambad	kudamb	PRON	_	Case=Nom|Number=Plur|PronType=Int	16	nsubj	_	_
-10	ičeze	ičeze	PRON	_	Case=Nom|Number=Sing|PronType=Prs	11	nmod	_	_
+10	ičeze	iče	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	11	nmod	_	_
 11	melel	mel'	NOUN	_	Case=Ade|Number=Sing	16	obl	_	_
 12	da	da	CCONJ	_	_	14	cc	_	_
 13	surel	sur'	ADJ	_	Case=Ade|Degree=Pos|Number=Sing	14	amod	_	_
@@ -17,7 +17,7 @@
 15	voiba	voida	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	aux	_	_
 16	tehta	tehta	VERB	_	VerbForm=Inf	7	acl:relcl	_	_
 17	kaiken	kaik	PRON	_	Case=Gen|Number=Sing|PronType=Tot	16	obj	_	_
-18	ičeze	ičeze	PRON	_	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	19	nmod	_	_
+18	ičeze	iče	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	19	nmod	_	_
 19	kanzan	kanz	NOUN	_	Case=Gen|Number=Sing	16	obl	_	_
 20	da	da	CCONJ	_	_	21	cc	_	_
 21	kodiman	kodima	NOUN	_	Case=Gen|Number=Sing	19	conj	_	_
@@ -97,7 +97,7 @@
 11	,	,	PUNCT	_	_	12	punct	_	_
 12	kudambal	kudamb	PRON	_	Case=Ade|Number=Sing|PronType=Int	10	acl:relcl	_	_
 13	om	olda	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	_
-14	ičeze	ičeze	PRON	_	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	15	nmod	_	_
+14	ičeze	iče	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	15	nmod	_	_
 15	uništusid	uništuz	NOUN	_	Case=Par|Number=Plur	12	nsubj	_	_
 16	da	da	CCONJ	_	_	17	cc	_	_
 17	tahtoid	taht	NOUN	_	Case=Par|Number=Plur	15	conj	_	_
@@ -281,7 +281,7 @@
 # text = Muštat-ik Tö ičetoi školan vozid ?
 1	Muštat-ik	muštatada	VERB	_	Clitic=Ik|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	Tö	tö	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	1	nsubj	_	_
-3	ičetoi	ičeze	PRON	_	Case=Nom|Number=Plur|PronType=Prs|Reflex=Yes	4	nmod	_	_
+3	ičetoi	iče	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs|Reflex=Yes	4	nmod	_	_
 4	školan	škol	NOUN	_	Case=Gen|Number=Sing	5	nmod	_	_
 5	vozid	voz'	NOUN	_	Case=Par|Number=Plur	1	obj	_	_
 6	?	?	PUNCT	_	_	1	punct	_	_
@@ -433,7 +433,7 @@
 11	miše	miše	SCONJ	_	_	13	mark	_	_
 12	ristitud	ristit	NOUN	_	Case=Nom|Number=Plur	13	nsubj	_	_
 13	muštaižiba	muštta	VERB	_	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
-14	ičeze	ičeze	PRON	_	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	15	nmod	_	_
+14	ičeze	iče	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	15	nmod	_	_
 15	jurid	jur'	NOUN	_	Case=Par|Number=Plur	13	obj	_	_
 16	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -482,7 +482,7 @@
 3	ei	ei	AUX	_	Number=Sing|Person=3|Polarity=Neg	5	aux	_	_
 4	pida	pidada	AUX	_	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
 5	unohtada	unohtada	VERB	_	VerbForm=Inf	0	root	_	_
-6	ičeze	ičeze	PRON	_	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	7	nmod	_	_
+6	ičeze	iče	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	7	nmod	_	_
 7	jurid	jur'	NOUN	_	Case=Par|Number=Plur	5	obj	_	_
 8	da	da	CCONJ	_	_	9	cc	_	_
 9	kodikel't	kodikel'	NOUN	_	Case=Par|Number=Sing	7	conj	_	_
@@ -495,7 +495,7 @@
 3	ked	ken	PRON	_	Case=Par|Number=Sing|PronType=Int	5	nsubj	_	_
 4	ei	ei	AUX	_	Number=Plur|Person=3|Polarity=Neg	5	aux	_	_
 5	tekoi	tehta	VERB	_	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl:relcl	_	_
-6	ičeze	ičeze	PRON	_	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	7	nmod	_	_
+6	ičeze	iče	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	7	nmod	_	_
 7	jurid	jur'	NOUN	_	Case=Par|Number=Plur	5	obj	_	_
 8	,	,	PUNCT	_	_	11	punct	_	_
 9	ei	ei	AUX	_	Number=Plur|Person=3|Polarity=Neg	11	aux	_	_
@@ -508,7 +508,7 @@
 16	ei	ei	AUX	_	Number=Plur|Person=3|Polarity=Neg	18	aux	_	_
 17	voigoi	voida	AUX	_	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	18	aux	_	_
 18	löuta	löuta	VERB	_	VerbForm=Inf	11	conj	_	_
-19	ičtaze	ičeze	PRON	_	Case=Par|Number=Sing|PronType=Prs|Reflex=Yes	18	obj	_	_
+19	ičtaze	iče	PRON	_	Case=Par|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	18	obj	_	_
 20	neciš	nece	PRON	_	Case=Ine|Number=Sing|PronType=Dem	21	nmod	_	_
 21	mirus	mir	NOUN	_	Case=Ine|Number=Sing	18	obl	_	_
 22	,	,	PUNCT	_	_	25	punct	_	_
@@ -516,7 +516,7 @@
 24	voigoi	voida	AUX	_	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	25	aux	_	_
 25	kazvatada	kazvatada	VERB	_	VerbForm=Inf	11	conj	_	_
 26	lapsid	laps'	NOUN	_	Case=Par|Number=Plur	25	obj	_	_
-27	ičeze	ičeze	PRON	_	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	28	nmod	_	_
+27	ičeze	iče	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	28	nmod	_	_
 28	rahvahan	rahvaz	NOUN	_	Case=Gen|Number=Sing	29	nmod	_	_
 29	veroid	vero	NOUN	_	Case=Gen|Number=Plur	25	obl	_	_
 30	möto	möto	ADP	_	AdpType=Post	29	case	_	_
@@ -530,12 +530,12 @@
 4	ristitud	ristit	NOUN	_	Case=Nom|Number=Plur	5	nsubj	_	_
 5	napriba	naprida	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 6	tugeta	tugeta	VERB	_	VerbForm=Inf	5	xcomp	_	_
-7	ičeze	ičeze	PRON	_	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	8	nmod	_	_
+7	ičeze	iče	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	8	nmod	_	_
 8	rahvahid	rahvaz	NOUN	_	Case=Par|Number=Plur	6	obj	_	_
 9	,	,	PUNCT	_	_	10	punct	_	_
 10	tahtoiba	tahtoida	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
 11	teta	teta	VERB	_	VerbForm=Inf	10	xcomp	_	_
-12	ičeze	ičeze	PRON	_	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	13	nmod	_	_
+12	ičeze	iče	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	13	nmod	_	_
 13	kanzan	kanz	NOUN	_	Case=Gen|Number=Sing	14	nmod	_	_
 14	istorijad	istorija	NOUN	_	Case=Par|Number=Sing	11	obj	_	_
 15	.	.	PUNCT	_	_	5	punct	_	_
@@ -586,7 +586,7 @@
 18	ristitud	ristit	NOUN	_	Case=Nom|Number=Plur	20	nsubj	_	_
 19	voiba	voida	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	aux	_	_
 20	johtutada	johtutada	VERB	_	VerbForm=Inf	13	acl:relcl	_	_
-21	ičeze	ičeze	PRON	_	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	22	nmod	_	_
+21	ičeze	iče	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	22	nmod	_	_
 22	jurid	jur'	NOUN	_	Case=Nom|Number=Plur	20	obj	_	_
 23	,	,	PUNCT	_	_	24	punct	_	_
 24	panda	panda	VERB	_	VerbForm=Inf	20	conj	_	_
@@ -819,7 +819,7 @@
 6	Teile	tö	PRON	_	Case=All|Number=Plur|Person=2|PronType=Prs	8	obl	_	_
 7	pidi	pidada	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	aux	_	_
 8	vajehtada	vajehtada	VERB	_	VerbForm=Inf	3	acl:relcl	_	_
-9	ičetoi	ičetoi	PRON	_	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	10	nmod	_	_
+9	ičetoi	iče	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs|Reflex=Yes	10	nmod	_	_
 10	elod	elo	NOUN	_	Case=Nom|Number=Plur	8	obj	_	_
 11	?	?	PUNCT	_	_	1	punct	_	_
 
@@ -873,7 +873,7 @@
 13	en	ei	AUX	_	Number=Sing|Person=1|Polarity=Neg	15	aux	_	_
 14	voi	voida	AUX	_	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	15	aux	_	_
 15	kävutada	kävutada	VERB	_	VerbForm=Inf	8	ccomp	_	_
-16	ičein	iče	PRON	_	Case=Gen|Number=Sing|PronType=Prs|Reflex=Yes	17	nmod	_	_
+16	ičein	iče	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	17	nmod	_	_
 17	tedoid	tedo	NOUN	_	Case=Par|Number=Plur	15	obj	_	_
 18	,	,	PUNCT	_	_	21	punct	_	_
 19	en	ei	AUX	_	Number=Sing|Person=1|Polarity=Neg	21	aux	_	_
@@ -956,7 +956,7 @@
 1	Heiden	hö	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	8	obl	_	_
 2	abul	abu	ADP	_	AdpType=Post	1	case	_	_
 3	da	da	CCONJ	_	_	6	cc	_	_
-4	ičein	iče	PRON	_	Case=Gen|Number=Sing|PronType=Prs|Reflex=Yes	6	nmod	_	_
+4	ičein	iče	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	6	nmod	_	_
 5	surel	sur'	ADJ	_	Case=Ade|Degree=Pos|Number=Sing	6	amod	_	_
 6	naprindal	naprind	NOUN	_	Case=Ade|Number=Sing	1	conj	_	_
 7	minä	minä	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
@@ -1048,7 +1048,7 @@
 22	i	i	CCONJ	_	_	23	cc	_	_
 23	oigeta	oigeta	VERB	_	VerbForm=Inf	19	conj	_	_
 24	kaik	kaik	PRON	_	Case=Nom|Number=Sing|PronType=Tot	26	nmod	_	_
-25	ičein	ičein	PRON	_	Case=Gen|Number=Sing|PronType=Prs|Reflex=Yes	26	nmod	_	_
+25	ičein	iče	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	26	nmod	_	_
 26	väged	vägi	NOUN	_	Case=Nom|Number=Plur	23	obj	_	_
 27	neche	nece	PRON	_	Case=Ill|Number=Sing|PronType=Dem	28	nmod	_	_
 28	radho	rad	NOUN	_	Case=Ill|Number=Sing	23	obl	_	_
@@ -1225,7 +1225,7 @@
 2	om	olda	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
 3	sur'	sur'	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	4	amod	_	_
 4	armastuz	armastuz	NOUN	_	Case=Nom|Number=Sing	1	nsubj:cop	_	_
-5	ičeze	ičeze	PRON	_	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	6	nmod	_	_
+5	ičeze	iče	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	6	nmod	_	_
 6	rahvahaze	rahvaz	NOUN	_	Case=Ill|Number=Sing	1	obl	_	_
 7	da	da	CCONJ	_	_	8	cc	_	_
 8	kodimaha	kodima	NOUN	_	Case=Ill|Number=Sing	6	conj	_	_
@@ -1276,7 +1276,7 @@
 6	kut	kut	ADV	_	_	8	advmod	_	_
 7	pidab	pidada	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	_
 8	armastada	armastada	VERB	_	VerbForm=Inf	3	ccomp	_	_
-9	ičeze	ičeze	PRON	_	Case=Gen|Number=Sing|PronType=Prs|Reflex=Yes	10	nmod	_	_
+9	ičeze	iče	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	10	nmod	_	_
 10	rahvast	rahvaz	NOUN	_	Case=Par|Number=Sing	8	obj	_	_
 11	,	,	PUNCT	_	_	12	punct	_	_
 12	kel't	kel'	NOUN	_	Case=Par|Number=Sing	10	conj	_	_
@@ -1427,7 +1427,7 @@
 # text = Päžar'laižed navediba ičeze mad , kaičeba sidä i pagižeba kodimal vaiše armhal vepsän kelel .
 1	Päžar'laižed	Päžar'laine	NOUN	_	Case=Nom|Number=Plur	2	nsubj	_	_
 2	navediba	navedida	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	ičeze	ičeze	PRON	_	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	4	nmod	_	_
+3	ičeze	iče	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	4	nmod	_	_
 4	mad	ma	NOUN	_	Case=Par|Number=Sing	2	obj	_	_
 5	,	,	PUNCT	_	_	6	punct	_	_
 6	kaičeba	kaita	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
