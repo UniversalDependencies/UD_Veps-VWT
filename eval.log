@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
+commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 10 10:33:45 2024 +0100
+Date:   Fri May 9 21:07:42 2025 +0200
 Evaluating the following revision of UD_Veps-VWT:
-commit de9defe7d63cd2037744624b490164316f634085
+commit 25ff254522613c3c8c7e1fb72a1e5c52ffcf1966
+Merge: 9056938 e80e1dc
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 13:39:23 2024 +0200
 Size: counted 1303 of 1303 words (nodes).
 Size: min(0, log((N/1000)**2)) = 0.529338596285416.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,21 +20,21 @@ Features: source of annotation (from README) factor is 1.
 Universal relations: 24 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL          3
-Udapi: found 3 bugs.
+               TOTAL          2
+Udapi: found 2 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 1303 words.
-Genres: found 1 out of 17 known.
+Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang vep --max-err=10 UD_Veps-VWT/vep_vwt-ud-test.conllu
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=1) = 0.0769230769230769
-(weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
+(weight=0.0769230769230769) * (score{genres}=0.0555555555555556) = 0.00427350427350427
 (weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
 (weight=0.256410256410256) * (score{size}=0.0383148052375282) = 0.00982430903526365
 (weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.764705882352941) = 0.0588235294117647
-(weight=0.307692307692308) * (score{udapi}=0.976976208749041) = 0.300608064230474
+(weight=0.307692307692308) * (score{udapi}=0.984650805832694) = 0.302969478717752
 (weight=0.0769230769230769) * (score{udeprels}=0.648648648648649) = 0.0498960498960499
-(TOTAL score=0.578035813810355) * (availability=1) * (validity=1) = 0.578035813810355
+(TOTAL score=0.580145845693309) * (availability=1) * (validity=1) = 0.580145845693309
 STARS = 3
-UD_Veps-VWT	0.578035813810355	3
+UD_Veps-VWT	0.580145845693309	3
