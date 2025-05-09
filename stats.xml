@@ -10,7 +10,7 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>103</sentences><tokens>1303</tokens><words>1303</words><fused>0</fused></test>
   </size>
-  <lemmas unique="383" /><!-- ,, ., olda, minä, da, ei, nece, vepsän, mö, ičeze, kaik, miše, elo, eläda, kel' -->
+  <lemmas unique="380" /><!-- ,, ., olda, minä, da, ei, nece, vepsän, iče, mö, kaik, miše, elo, eläda, kel' -->
   <forms unique="590" /><!-- ,, ., da, om, minä, vepsän, ei, miše, ičeze, nece, -, i, kelel, meiden, minun -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -23,7 +23,7 @@
     <tag name="NOUN">310</tag><!-- elo, kel', külä, ristit, rad, rahvaz, aig, laps', škol, kanz -->
     <tag name="NUM">11</tag><!-- 40, kaks', 15, 2017, 23., kahesa, koume, üks, üks' -->
     <tag name="PART">2</tag><!-- ved' -->
-    <tag name="PRON">168</tag><!-- minä, nece, mö, ičeze, kaik, se, hän, hö, tö, kudamb -->
+    <tag name="PRON">168</tag><!-- minä, nece, iče, mö, kaik, se, hän, hö, tö, kudamb -->
     <tag name="PROPN">45</tag><!-- Kalag', Kaskez, Natalja, Päžar, Silakova, Jevgenjevna, Piter, Päžar', vepsän, Änižjärv -->
     <tag name="PUNCT">218</tag><!-- ,, ., -, ?, –, ", !, : -->
     <tag name="SCONJ">16</tag><!-- miše, ku -->
@@ -39,10 +39,10 @@
     <feat name="Case" value="Com" upos="NOUN,PROPN">9</feat><!-- vepsläižidenke, Silakovanke, kaluidenke, kiviradnikoidenke, pertidenno, sündundpäivänke, vanhembidenke, vellenke -->
     <feat name="Case" value="Ela" upos="NOUN,PRON,PROPN">6</feat><!-- Kaskezaspäi, Tožegespäi, heišpäi, kanzaspäi, külišpäi, polespäi -->
     <feat name="Case" value="Ess" upos="ADJ,NOUN">5</feat><!-- aktivižen, omblijan, opendajan, paštajan, ühtnikan -->
-    <feat name="Case" value="Gen" upos="ADJ,NOUN,PRON,PROPN">123</feat><!-- vepsän, meiden, minun, külän, kaiken, heiden, ičein, kanzan, kul'tursebran, necen -->
+    <feat name="Case" value="Gen" upos="ADJ,NOUN,PRON,PROPN">137</feat><!-- vepsän, ičeze, meiden, minun, külän, kaiken, heiden, ičein, kanzan, kul'tursebran -->
     <feat name="Case" value="Ill" upos="ADJ,NOUN,PRON,PROPN,VERB">32</feat><!-- Päžarvehe, neche, radmaha, školha, Kaskezaha, agjaha, eloho, elämaha, kacmaha, kivikarjeroihe -->
     <feat name="Case" value="Ine" upos="ADJ,NOUN,NUM,PRON,PROPN">46</feat><!-- kanzas, küläs, elos, internatas, kaikes, mirus, muzejas, neciš, posadas, südäimes -->
-    <feat name="Case" value="Nom" upos="ADJ,NOUN,NUM,PRON,PROPN">233</feat><!-- minä, ičeze, nece, lapsed, mö, ristitud, Kalag', kaik, rad, elo -->
+    <feat name="Case" value="Nom" upos="ADJ,NOUN,NUM,PRON,PROPN">219</feat><!-- minä, nece, lapsed, mö, ristitud, Kalag', kaik, rad, elo, hän -->
     <feat name="Case" value="Par" upos="ADJ,NOUN,NUM,PRON,PROPN">90</feat><!-- kel't, jurid, rahvast, vot, adivoid, elod, midä-se, mindai, necidä, projektoid -->
     <feat name="Case" value="Ter" upos="NOUN,PROPN">2</feat><!-- Toižegehesai, lophusai -->
     <feat name="Case" value="Tra" upos="NOUN">3</feat><!-- pämeheks, Ozutesikš -->
@@ -54,21 +54,21 @@
     <feat name="Degree" value="Pos" upos="ADJ">53</feat><!-- hüvä, surel, čomal, erazvuiččed, jüged, kebn, tärged, äi, čoma, aktivižen -->
     <feat name="Mood" value="Cnd" upos="AUX,VERB">8</feat><!-- Oliži, el'gendaižiba, eläiži, kül'mäiži, muštaižiba, pagižižiba, tahtoižin, tehtas -->
     <feat name="Mood" value="Ind" upos="AUX,VERB">178</feat><!-- om, oli, pidab, eläba, oma, radoin, ajoin, ole, olend, seižub -->
-    <feat name="Number" value="Plur" upos="ADJ,AUX,NOUN,PRON,VERB">217</feat><!-- meiden, lapsed, mö, ristitud, ei, eläba, heiden, jurid, oma, Tö -->
-    <feat name="Number" value="Sing" upos="ADJ,AUX,NOUN,PRON,PROPN,VERB">565</feat><!-- om, minä, vepsän, ei, ičeze, nece, kelel, minun, oli, Kalag' -->
+    <feat name="Number" value="Plur" upos="ADJ,AUX,NOUN,PRON,VERB">222</feat><!-- meiden, lapsed, mö, ristitud, ei, eläba, heiden, ičeze, jurid, oma -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,NOUN,PRON,PROPN,VERB">560</feat><!-- om, minä, vepsän, ei, nece, ičeze, kelel, minun, oli, Kalag' -->
     <feat name="NumForm" value="Digit" upos="NUM">5</feat><!-- 40, 15, 2017, 23. -->
     <feat name="NumForm" value="Word" upos="ADJ,NUM">7</feat><!-- ezmäižid, kahesa, kaht, kaks', koume, ühtes, üks' -->
     <feat name="NumType" value="Card" upos="NUM">10</feat><!-- 40, 15, 2017, kahesa, kaht, kaks', koume, ühtes, üks' -->
     <feat name="NumType" value="Ord" upos="ADJ,NUM">2</feat><!-- 23., ezmäižid -->
-    <feat name="Person" value="1" upos="AUX,PRON,VERB">108</feat><!-- minä, meiden, minun, mö, minei, en, radoin, ajoin, el'genzin, meletan -->
-    <feat name="Person" value="2" upos="PRON,VERB">11</feat><!-- Tö, Muštat-ik, Teid, Teiden, Teil, Teile, sinus, valičit, zavodit -->
-    <feat name="Person" value="3" upos="AUX,PRON,VERB">143</feat><!-- om, ei, oli, hän, pidab, eläba, heiden, oma, seižub, voiba -->
+    <feat name="Person" value="1" upos="AUX,PRON,VERB">111</feat><!-- minä, meiden, minun, mö, minei, en, radoin, ajoin, ičein, el'genzin -->
+    <feat name="Person" value="2" upos="PRON,VERB">13</feat><!-- Tö, ičetoi, Muštat-ik, Teid, Teiden, Teil, Teile, sinus, valičit, zavodit -->
+    <feat name="Person" value="3" upos="AUX,PRON,VERB">157</feat><!-- om, ei, ičeze, oli, hän, pidab, eläba, heiden, oma, seižub -->
     <feat name="Polarity" value="Neg" upos="AUX">22</feat><!-- ei, en -->
     <feat name="PronType" value="Dem" upos="PRON">36</feat><!-- nece, se, necen, sen, neche, necidä, neciš, Ned, Niiš, necil -->
     <feat name="PronType" value="Int" upos="PRON">12</feat><!-- kudambad, mitte, Ken, Mi, Mittušt, ked, kudambal, midä, mugoine -->
     <feat name="PronType" value="Prs" upos="PRON">102</feat><!-- minä, ičeze, meiden, minun, mö, minei, hän, heiden, Tö, ičein -->
     <feat name="PronType" value="Tot" upos="PRON">16</feat><!-- kaik, kaiken, kaikes, kaiked, kaikile, kaikse -->
-    <feat name="Reflex" value="Yes" upos="PRON">18</feat><!-- ičeze, ičein, ičetoi, ičtaze -->
+    <feat name="Reflex" value="Yes" upos="PRON">19</feat><!-- ičeze, ičein, ičetoi, ičtaze -->
     <feat name="Tense" value="Past" upos="AUX,VERB">70</feat><!-- oli, radoin, ajoin, olend, el'genzin, sain, sündnu, tahtoin, tuli, Oli-ik -->
     <feat name="Tense" value="Pres" upos="AUX,VERB">121</feat><!-- om, pidab, eläba, oma, ole, seižub, voi, voiba, voigoi, abutab -->
     <feat name="Typo" value="Yes" upos="VERB">1</feat><!-- terverhtoitaba -->
