@@ -22,6 +22,9 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
 
 # Changelog
 
+* 2025-10-30 v2.17
+  * Fixed: obl > nmod deprel where parent is nominal (rueter)
+  * Fixed: PronType value (rueter)
 * 2023-11-15 v2.13
   * Initial release in Universal Dependencies.
 

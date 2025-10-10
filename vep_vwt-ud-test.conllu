@@ -296,7 +296,7 @@
 6	sikš	sikš	ADV	_	_	12	advmod	_	_
 7	kaik	kaik	PRON	_	Case=Nom|Number=Sing|PronType=Tot	8	det	_	_
 8	lapsed	laps'	NOUN	_	Case=Nom|Number=Plur	12	nsubj	_	_
-9	Kaskezaspäi	Kaskez	PROPN	_	Case=Ela|Number=Sing	8	obl	_	_
+9	Kaskezaspäi	Kaskez	PROPN	_	Case=Ela|Number=Sing	8	nmod	_	_
 10	da	da	CCONJ	_	_	11	cc	_	_
 11	Tožegespäi	Tožeg	PROPN	_	Case=Ela|Number=Sing	9	conj	_	_
 12	käveliba	kävelta	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
@@ -325,7 +325,7 @@
 # text = Lapsed toižiš külišpäi eliba internatas .
 1	Lapsed	laps'	NOUN	_	Case=Nom|Number=Plur	4	nsubj	_	_
 2	toižiš	toine	PRON	_	Case=Ine|Number=Plur|PronType=Dem	3	nmod	_	_
-3	külišpäi	külä	NOUN	_	Case=Ela|Number=Plur	1	obl	_	_
+3	külišpäi	külä	NOUN	_	Case=Ela|Number=Plur	1	nmod	_	_
 4	eliba	eläda	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 5	internatas	internat	NOUN	_	Case=Ine|Number=Sing	4	obl	_	_
 6	.	.	PUNCT	_	_	4	punct	_	_
@@ -752,13 +752,13 @@
 5	,	,	PUNCT	_	_	7	punct	_	_
 6	sid'	sid'	ADV	_	_	7	advmod	_	_
 7	radoin	rata	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
-8	magupaštatesiden	magupaštatesed	NOUN	_	Case=Gen|Number=Plur	9	obl	_	_
+8	magupaštatesiden	magupaštatesed	NOUN	_	Case=Gen|Number=Plur	9	nmod	_	_
 9	paštajan	paštai	NOUN	_	Case=Ess|Number=Sing	7	obl	_	_
 10	da	da	CCONJ	_	_	13	cc	_	_
 11	sen	se	PRON	_	Case=Gen|Number=Sing|PronType=Dem	13	obl	_	_
 12	jäl'ghe	jäl'ghe	ADP	_	_	13	case	_	_
 13	radoin	rata	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
-14	pähižiden	pähine	NOUN	_	Case=Gen|Number=Plur	15	obl	_	_
+14	pähižiden	pähine	NOUN	_	Case=Gen|Number=Plur	15	nmod	_	_
 15	omblijan	omblii	NOUN	_	Case=Ess|Number=Sing	13	obl	_	_
 16	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -799,7 +799,7 @@
 8	minä	minä	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
 9	pätin	pätta	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	16	advcl	_	_
 10	tehta	tehta	VERB	_	VerbForm=Inf	9	xcomp	_	_
-11	midä-se	mi-se	PRON	_	Case=Par|Clitic=Se|Number=Sing	10	obj	_	_
+11	midä-se	mi-se	PRON	_	Case=Par|Clitic=Se|Number=Sing|PronType=Ind	10	obj	_	_
 12	,	,	PUNCT	_	_	16	punct	_	_
 13	ka	ka	ADV	_	_	16	advmod	_	_
 14	minei	minä	PRON	_	Case=All|Number=Sing|Person=1|PronType=Prs	16	obl	_	_
@@ -1093,7 +1093,7 @@
 7	voin-ik	voida	AUX	_	Clitic=Ik|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	_
 8	minä	minä	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
 9	tehta	tehta	VERB	_	VerbForm=Inf	5	ccomp	_	_
-10	midä-se	mi-se	PRON	_	Case=Par|Clitic=Se|Number=Sing	11	nmod	_	_
+10	midä-se	mi-se	PRON	_	Case=Par|Clitic=Se|Number=Sing|PronType=Ind	11	nmod	_	_
 11	ut	uz'	ADJ	_	Case=Par|Degree=Pos|Number=Sing	9	obj	_	_
 12	da	da	CCONJ	_	_	13	cc	_	_
 13	hüväd	hüvä	ADJ	_	Case=Par|Degree=Pos|Number=Sing	11	conj	_	_
@@ -1109,7 +1109,7 @@
 3	kut-se	kut-se	ADV	_	Clitic=Se	2	advmod	_	_
 4	vajehtada	vajehtada	VERB	_	VerbForm=Inf	2	xcomp	_	_
 5	elod	elo	NOUN	_	Case=Par|Number=Sing	4	obj	_	_
-6	küläs	külä	NOUN	_	Case=Ine|Number=Sing	5	obl	_	_
+6	küläs	külä	NOUN	_	Case=Ine|Number=Sing	5	nmod	_	_
 7	,	,	PUNCT	_	_	8	punct	_	_
 8	kaita	kaita	VERB	_	VerbForm=Inf	4	conj	_	_
 9	vepsläšt	vepsläine	ADJ	_	Case=Par|Number=Sing	10	amod	_	_
