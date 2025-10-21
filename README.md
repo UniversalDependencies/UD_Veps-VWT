@@ -25,7 +25,7 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
 * 2025-10-30 v2.17
   * Fixed: obl > nmod deprel where parent is nominal (rueter)
   * Fixed: PronType value (rueter)
-  * Fixed: Personal pronoun lemmas to singular for alignment with other Balto-Finnic languages minä, sinä, hän
+  * Fixed: Personal pronoun lemmas to singular for alignment with other Balto-Finnic languages minä, sinä, hän (rueter)
 * 2023-11-15 v2.13
   * Initial release in Universal Dependencies.
 
