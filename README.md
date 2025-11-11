@@ -22,6 +22,11 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
 
 # Changelog
 
+* 2025-10-30 v2.17
+  * Fixed: obl > nmod deprel where parent is nominal (rueter)
+  * Fixed: PronType value (rueter)
+  * Fixed: Personal pronoun lemmas to singular for alignment with other Balto-Finnic languages minä, sinä, hän (rueter)
+  * Corrected: Apostrophe to Modifier Letter Apostrophe (U+02BC) to ensure this palatalization marker does not split the tokens. (rueter)
 * 2023-11-15 v2.13
   * Initial release in Universal Dependencies.
 
@@ -31,6 +36,7 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
 Data available since: UD v2.13
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: grammar-examples
 Lemmas: manual native
 UPOS: manual native
